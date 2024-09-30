@@ -1,0 +1,6 @@
+development:
+  password: shptka_3febf82fd042083d3a71068808804cbf
+  theme_id: "172191351083"
+  store: smithfield-footwear.myshopify.com
+  ignore_files:
+    - config/settings_data.json
